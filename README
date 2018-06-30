@@ -1,0 +1,4 @@
+qt 5.11.0
+libgmp-dev/bionic,now 2:6.1.2+dfsg-2 amd64
+
+may have endian issue, tested work on x86_64
